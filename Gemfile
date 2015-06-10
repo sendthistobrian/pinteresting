@@ -9,7 +9,7 @@ group :production do
      gem 'rails_12factor'
 end
 
-gem 'devise'
+gem 'devise', '~> 3.4.0'
 
 gem 'bootstrap-sass'
 
